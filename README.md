@@ -1,4 +1,4 @@
-```markdown
+
 # Materia: Algoritmos y Programación
 
 ## Integrantes:

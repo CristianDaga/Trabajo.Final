@@ -77,10 +77,10 @@ Con la firma de este documento, cada miembro del grupo acepta la información de
 El acta será redactada por Laura Sofia Areiza Holguín, revisada por María Camila Toro Durán y firmada por todos los miembros del grupo para formalizar su acuerdo con los puntos establecidos.
 
 **Firmas:**
-- Cristian David Bustamante García - C.C 1001438224
-- Laura Sofia Areiza Holguín - C.C 1193150967
-- Isabela Peláez Londoño - C.C 1001015712
-- María Camila Toro Durán - C.C 1017273579
+- Cristian David Bustamante García 
+- Laura Sofia Areiza Holguín 
+- Isabela Peláez Londoño 
+- María Camila Toro Durán
 
 ---
 
@@ -113,7 +113,7 @@ Con la firma de este documento, cada miembro del grupo acepta la información de
 El acta será redactada por Laura Sofia Areiza Holguín, revisada por María Camila Toro Durán y firmada por todos los miembros del grupo para formalizar su acuerdo con los puntos establecidos.
 
 **Firmas:**
-- Cristian David Bustamante García - C.C 1001438224
-- Laura Sofia Areiza Holguín - C.C 1193150967
-- Isabela Peláez Londoño - C.C 1001015712
-- María Camila Toro Durán - C.C 1017273579
+- Cristian David Bustamante García 
+- Laura Sofia Areiza Holguín 
+- Isabela Peláez Londoño 
+- María Camila Toro Durán 
